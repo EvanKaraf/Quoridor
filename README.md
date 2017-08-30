@@ -2,14 +2,14 @@
 A Quoridor Agent for Introduction To Programming course at University of Athens.
 
 Implementation by EvanKaraf and Karystinos Nikolaos.
-##Installation
+## Installation
 ```
 git clone https://github.com/EvanKaraf/Quoridor.git
 make
 make clean
 ```
 
-##Usage
+## Usage
 ```
 known_cmds
 ```
